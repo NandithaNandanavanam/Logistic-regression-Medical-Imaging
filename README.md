@@ -4,11 +4,11 @@ Wisconsin Diagnostic Breast Cancer(WDBC) dataset consists of 569 pre-computed di
 ## Training
 The WDBC dataset has been partitioned into 80% training, 10 % cross-validation and 10% testing datasets. In order to scale all the feature values into a smaller range, normalization has been performed on the datasets.  The model parameters: weights of features and bias are initialized. The hyper parameters: learning rate and epochs are set to a value initially
 ## Result
-# Confusion Matrix
+### Confusion Matrix
 
-# Accuracy
+### Accuracy
 89.47%
-# Precision
+### Precision
 90.9%
-# Recall
+### Recall
 86.95%
