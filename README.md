@@ -6,9 +6,6 @@ The WDBC dataset has been partitioned into 80% training, 10 % cross-validation a
 ## Result
 ### Confusion Matrix
 
-### Accuracy
-89.47%
-### Precision
-90.9%
-### Recall
-86.95%
+Accuracy = 89.47%
+Precision = 90.9%
+Recall = 86.95%
